@@ -1,6 +1,6 @@
 # Neural-Networks-DeepLearning
 
-This Repository contains the Programming assignments completed under Deep Learning specialisation(Coursera)
+This Repository contains the Programming assignments completed under first course of Deep Learning specialisation(Coursera)
 
 ## Skills learnt
 
